@@ -1,0 +1,1 @@
+exports.jwtSecretKey = 'myCloneOfLinkedInin2021';
