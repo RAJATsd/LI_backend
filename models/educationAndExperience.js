@@ -23,7 +23,7 @@ const educationAndExperienceSchema = new schema({
                 required:true
             },
             to : {
-                type: Date
+                type: String
             }
         }
     ],
